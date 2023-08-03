@@ -1,13 +1,20 @@
 {
   "name": "vue-multi-slider",
-  "version": "0.0.9",
+  "version": "0.1.1",
   "type": "module",
   "files": [
     "dist"
   ],
   "author": "Paweł Kiciński",
-  "keywords": ["slider","vue","nuxt","carousel","vue3","vue3.js"],
-  "license":"ISC",
+  "keywords": [
+    "slider",
+    "vue",
+    "nuxt",
+    "carousel",
+    "vue3",
+    "vue3.js"
+  ],
+  "license": "ISC",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
   "exports": {
