@@ -8,7 +8,7 @@ export default defineConfig({
     insertTypesEntry: true
 
   })],
-
+  base: './'
   build: {
     lib: {
       // src/indext.ts is where we have exported the component(s)
