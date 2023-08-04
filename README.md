@@ -1,7 +1,11 @@
+[Image Preview](https://github.com/DaedalusHatak/vue-multi-slider/blob/main/public/Preview.jpg)
+
 # Vue 3 Multi Slider
 
 Slider library for `VUE/NUXT` projects with specified number of images per slide
 
+# Demo
+[Live demo](https://symphonious-kelpie-14cd31.netlify.app/)
 # Installation
 
 Simply use 
@@ -59,3 +63,4 @@ createApp(App).use(ImageCarousel).mount('#app')
 | lg | number | `0` | Specifies amount of slides for screens between 1024px and 1280px `(DISABLED by default)` |
 | xl | number | `0` | Specifies amount of slides for screens between 1280px and 1536px `(DISABLED by default)` |
 | xxl | number | `0` | Specifies amount of slides for screens above 1536px `(DISABLED by default)` |
+
