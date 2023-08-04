@@ -1,4 +1,5 @@
-[Image Preview](https://github.com/DaedalusHatak/vue-multi-slider/blob/main/public/Preview.jpg)
+# Preview
+![Image Preview](https://github.com/DaedalusHatak/vue-multi-slider/blob/main/public/Preview.jpg)
 
 # Vue 3 Multi Slider
 
