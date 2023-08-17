@@ -121,7 +121,6 @@ function currElement(e: MouseEvent, slide: MediaItem) {
 	}
 }
 function cancelHover() {
-	console.log('unhover');
 	clearTimeout(hoverTimer);
 }
 const emit = defineEmits<{
