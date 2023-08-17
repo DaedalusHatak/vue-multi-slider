@@ -45,7 +45,7 @@
 					@mouseleave="cancelHover()"
 					v-if="slide"
 					:src="slide.image"
-					:alt="slide.title"
+					:alt="slide.title || slide.name"
 				/>
 			</div>
 		</div>
