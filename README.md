@@ -59,6 +59,8 @@ createApp(App).use(ImageCarousel).mount('#app')
 | buttonWidth | number | `3` | Specifies width of buttons (in rem) |
 | buttonPadding | number | `0` | Specifies left and right position for buttons (in rem) |
 | buttonVisible | boolean | `false` | Enable visibility for buttons. By standard its showing only when hovered (except mobile) |
+| emitImage | boolean | `false` | Enable emitting element with its position on image hover |
+| emitImageDealy | number | `550` | Set up time after emit should occur (needs `emitImage` to be `true`) |
 | sm | number | `0` | Specifies amount of slides for screens between 640px and 768px `(DISABLED by default)` |
 | md | number | `0` | Specifies amount of slides for screens between 768px and 1024px `(DISABLED by default)` |
 | lg | number | `0` | Specifies amount of slides for screens between 1024px and 1280px `(DISABLED by default)` |
